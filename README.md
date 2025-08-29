@@ -43,4 +43,9 @@ I'm a passionate fullstack developer and graphic designer
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
+💡 Random Gen-Z Tech Quote
+
+> *“Debugging is just me having deep, emotional conversations with my computer.”*  
+> — *Some Gen-Z Coder*
+
 
