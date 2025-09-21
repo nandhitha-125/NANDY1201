@@ -1,4 +1,4 @@
-Hi you!!🤝
+Hi you!!🤝 
 I'm a passionate fullstack developer and graphic designer 
 
 - 🌱  I’m currently learning blockchain and DevOps...
