@@ -46,7 +46,7 @@ I'm a passionate fullstack developer and graphic designer
 💡 Random Gen-Z Tech Quote
 
 > *“Debugging is just me having deep, emotional conversations with my computer.”*  
-> — *Some Gen-Z Coder*
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NANDY1201&show_icons=true&theme=tokyonight)
