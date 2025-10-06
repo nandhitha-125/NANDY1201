@@ -1,5 +1,5 @@
 Hi you!!🤝 
-I'm a passionate fullstack developer and graphic designer 
+I'm a passionate fullstack developer and graphic design
 
 - 🌱  I’m currently learning blockchain and DevOps...
 - 💬 Ask me about Full Stack
